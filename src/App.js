@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Andiibot 1.3  
+          Andiibot on AWS 1.4
         </p>
 
         <a
